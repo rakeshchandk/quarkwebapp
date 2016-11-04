@@ -1,0 +1,158 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "Astra_12",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "Astra_12",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:testing:Issue:preview",
+   "media" : null,
+   "publishedDate" : null,
+   "subtitle" : null,
+   "title" : "article",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "preview1024" : "assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait1_preview.jpeg",
+               "url" : "portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "preview1024" : "assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait2_preview.jpeg",
+               "url" : "portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "preview1024" : "assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait3_preview.jpeg",
+               "url" : "portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "preview1024" : "assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait4_preview.jpeg",
+               "url" : "portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "5",
+               "preview1024" : "assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait5_preview.jpeg",
+               "url" : "portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "6",
+               "preview1024" : "assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait6_preview.jpeg",
+               "url" : "portrait6.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "7"
+                  }
+               ],
+               "id" : "7",
+               "preview1024" : "assets/portrait7_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait7_preview.jpeg",
+               "url" : "portrait7.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Astra_12",
+                     "pageRef" : "8"
+                  }
+               ],
+               "id" : "8",
+               "preview1024" : "assets/portrait8_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "assets/portrait8_preview.jpeg",
+               "url" : "portrait8.html"
+            }
+         ]
+      }
+   ]
+}
