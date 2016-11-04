@@ -1,0 +1,49 @@
+{
+  "name" : "user",
+  "version" : "0.5",
+  "published" : "2000-01-01T00:00:00Z",
+  "issues" : [ {
+    "id" : "urn:uuid:quark:testing:Issue:preview",
+    "title" : "Issue Preview",
+    "subtitle" : "",
+    "publishedDate" : "2000-01-01T00:00:00Z",
+    "lastPublishedDate" : "2000-01-01T00:00:00Z",
+    "bundle" : "html5output/",
+    "bundleSize" : 1,
+    "tabletIssuePath" : "",
+    "minimumAppVersion" : "1.0.0",
+    "appleId" : "",
+    "description" : "",
+    "isFree" : true,
+    "thumbnails" : {
+      "landscape" : "",
+      "ln_225" : "",
+      "ln_310" : "",
+      "ln_450" : "",
+      "ln_620" : "",
+      "ln_646" : "",
+      "ln_1292" : "",
+      "portrait" : "",
+      "pt_168" : "",
+      "pt_228" : "",
+      "pt_266" : "",
+      "pt_336" : "",
+      "pt_456" : "",
+      "pt_477" : "",
+      "pt_954" : ""
+    },
+    "media:content" : [ "", "" ],
+    "previews" : {
+      "portrait" : "",
+      "pt_768" : "",
+      "pt_384" : "",
+      "pt_320" : "",
+      "landscape" : "",
+      "ln_1024" : "",
+      "ln_512" : ""
+    },
+    "media:thumbnail" : [ "" ]
+  } ],
+  "appconfig" : { },
+  "duration" : "5"
+}
